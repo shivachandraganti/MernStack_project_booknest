@@ -25,3 +25,24 @@ dist-ssr
 node_modules
 .env
 .DS_Store
+
+# Node
+node_modules/
+.env
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# React build
+client/build/
