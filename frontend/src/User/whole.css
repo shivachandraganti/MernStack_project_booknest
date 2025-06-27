@@ -1,0 +1,50 @@
+/* Login.css */
+
+body,html {
+  /* light gray background */
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #6708cb, #7a8fb3);
+}
+
+.high{
+  width: 400px;
+  margin:100px auto; /* center horizontally + top space */
+  padding: 30px;
+  background-color: #b28b9e; /* white background */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
+}
+
+.high2 {
+  text-align: center;
+  margin: 400px auto; /* center horizontally + top space */
+  padding: 0px;
+  background-color: #d22424; /* white background */
+  border-radius: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width:400px;
+}
+
+.space {
+  display: block;
+  margin-bottom: 30px;
+  font-weight: bold;
+  color: #c52626;
+}
+/* Uhome.css */
+
+.r {
+  display: flex;
+  flex-wrap: wrap;   /* allows wrapping to the next line */
+  justify-content: center;  /* centers the cards horizontally */
+  gap: 30px; 
+  height:300; 
+         /* space between the cards */
+}
+
+.book-card {
+  width: 3000px;      /* fixed width for each card */
+}
+
+

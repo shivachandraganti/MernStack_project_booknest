@@ -1,0 +1,9 @@
+.high2 {
+  text-align: center;
+  margin: 400px auto; /* center horizontally + top space */
+  padding: 0px;
+  background-color: #d22424; /* white background */
+  border-radius: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width:400px;
+}

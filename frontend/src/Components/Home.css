@@ -1,0 +1,36 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color:#c785a3 ;
+  justify-content: center;
+}
+
+.home {
+  background-color: #c785a3; /* Match your pink banner */
+  min-height: 10vh;         /* Full screen height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.home-content {
+  text-align: center;
+  padding: 2rem;
+  color: white;
+  
+}
+
+.N {
+  background-color:black !important; /* Or override Bootstrap's primary if needed */
+}
+.k
+{
+  background: linear-gradient(to right, #6708cb, #7a8fb3);
+  justify-content: center;
+  
+  height:150px;
+  text-align: center;
+  font-size:20px;
+
+}
