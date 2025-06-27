@@ -46,3 +46,5 @@ Thumbs.db
 
 # React build
 client/build/
+/frontend/node_modules/
+/backend/node_modules/
